@@ -1,4 +1,4 @@
-# Modificame
+# Probando
 
 Este es un primer texto para *modificar*, **cambiar** y jugar.
 
@@ -9,7 +9,7 @@ Pueden:
 - Borrarme
 - Modificarme
 - Dejarme como está y agregar nuevas carpetas
-- [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork)
+- [Desde acá me "copian"](http://youtu.be/bcQwIxRcaYs)
 
-![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
+![beemo](http://youtu.be/bcQwIxRcaYs)"Este texto aparece cuando el mouse está sobre la imagen")
 
